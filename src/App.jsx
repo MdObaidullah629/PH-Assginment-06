@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
-// import ProductCard from "./components/ProductCard";
+import ProductCard from "./components/ProductCard";
 // import CartItem from "./components/CartItem";
 // import Footer from "./components/Footer";
 // import StepsSection from "./components/StepsSection"; 
