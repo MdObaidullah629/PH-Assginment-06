@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+  --primary-bg: #9538E2; /* ফিগমার পার্পল কালার */
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f7f7f7;
+  overflow-x: hidden;
+}
+
+/* Figma style buttons */
+.btn-primary-custom {
+  background-color: white !important;
+  color: var(--primary-bg) !important;
+  border-radius: 9999px;
+  font-weight: 800;
+  border: none;
+}
+
+.btn-purple {
+  background-color: var(--primary-bg) !important;
+  color: white !important;
+  border-radius: 9999px;
+  border: none;
+}

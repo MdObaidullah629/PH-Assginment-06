@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "AI Content Writer",
+    "description": "Create high-quality blog posts and articles in seconds using our advanced AI models.",
+    "price": 49,
+    "period": "monthly",
+    "tag": "New Release",
+    "tagType": "new",
+    "features": ["Unlimited AI Words", "Plagiarism Checker", "SEO Optimizer"],
+    "icon": "https://img.icons8.com/color/96/artificial-intelligence.png"
+  },
+  {
+    "id": 2,
+    "name": "SEO Master Tool",
+    "description": "Rank your website on the first page of Google with real-time keyword tracking.",
+    "price": 299,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": ["Keyword Explorer", "Backlink Audit", "Competitor Analysis"],
+    "icon": "https://img.icons8.com/color/96/search-engine-optimization.png"
+  },
+  {
+    "id": 3,
+    "name": "Design Pro Canvas",
+    "description": "Design stunning social media graphics and banners without any prior experience.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "Trending",
+    "tagType": "trending",
+    "features": ["500+ Templates", "Premium Icons", "Export to 4K"],
+    "icon": "https://img.icons8.com/color/96/vector-maze.png"
+  },
+  {
+    "id": 4,
+    "name": "Cloud Storage Pro",
+    "description": "Securely store and share your business files with military-grade encryption.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Essential",
+    "tagType": "popular",
+    "features": ["2TB Storage", "File Versioning", "24/7 Support"],
+    "icon": "https://img.icons8.com/color/96/cloud-storage.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Bot",
+    "description": "Automate your social media posts and engage with your audience 24/7.",
+    "price": 150,
+    "period": "yearly",
+    "tag": "Top Rated",
+    "tagType": "best",
+    "features": ["Auto Scheduling", "Smart Reply", "Analytics Dashboard"],
+    "icon": "https://img.icons8.com/color/96/automation.png"
+  },
+  {
+    "id": 6,
+    "name": "Video Editor Online",
+    "description": "Edit professional videos directly in your browser with advanced effects.",
+    "price": 35,
+    "period": "one-time",
+    "tag": "Hot",
+    "tagType": "new",
+    "features": ["No Watermark", "Stock Footage", "Multi-track Editing"],
+    "icon": "https://img.icons8.com/color/96/video-editing.png"
+  }
+]
